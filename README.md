@@ -14,11 +14,15 @@ A working Express.js API configured to use Sequelize to interact with a MySQL da
 
 Clone repository
 
-This application utilizes yarn; Use the package manager [yarn](https://yarnpkg.com/getting-started/usage) to install yarn.
+# utilizations 
+- yarn; Use the package manager [yarn](https://yarnpkg.com/getting-started/usage) to install yarn.
 
 ```bash
 npm install yarn -g
 ```
+- MySQL2 
+- Sequelize
+- dotenv package 
 
 ## Usage 
 Watch for instructions: https://watch.screencastify.com/v/8cFaNNLv4KMYlyzItGcm
